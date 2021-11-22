@@ -2,7 +2,11 @@
 
 Use VeriStand Model Generation Support to create VeriStand compatible models within the MathWorks Simulink® environment.
 
-You can generate models for Windows Desktop or NI Linux PXI platforms. Once generated, [VeriStand](https://www.ni.com/veristand) can import and deploy the model to a target.
+You can generate models for Windows Desktop or NI Linux Real-Time platforms. Once generated, [VeriStand](https://www.ni.com/veristand) can import and deploy the model to a target.
+
+## VeriStand Release Compatiblity
+
+Compatible with VeriStand 2021 and newer.
 
 ## Installation Guide for VeriStand Model Generation Support
 
