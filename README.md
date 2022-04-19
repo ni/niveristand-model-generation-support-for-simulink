@@ -26,7 +26,7 @@ Before you begin, install the supported versions of MathWorks MATLAB®, Simulink
 
 **Note:** You should uninstall the Veristand Model Framework package before using the VeriStand Model Generation Support add-on.
 
-**Note:** To get a specific version of VeriStand Model Generation Support Add-On, please visit the [releases page](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases). Download and open **VeriStandModelGenerationSupport.mltbx** in MATLAB to install the add-on.
+**Note:** To get a specific version of VeriStand Model Generation Support add-on, please visit the [releases page](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases). Download and open **VeriStandModelGenerationSupport.mltbx** in MATLAB to install the add-on.
 
 ### Install the MATLAB MinGW Compiler for 64-bit Windows targets
 
