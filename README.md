@@ -4,9 +4,14 @@ Use VeriStand Model Generation Support to create VeriStand compatible models wit
 
 You can generate models for Windows Desktop or NI Linux Real-Time platforms. Once generated, [VeriStand](https://www.ni.com/veristand) can import and deploy the model to a target.
 
-## VeriStand Release Compatiblity
+## VeriStand and MathWorks MATLAB® Release Compatibility
 
-Compatible with VeriStand 2021 and newer.
+| VeriStand | MathWorks MATLAB® | VeriStand Model Generation Support |
+|:-|:-|:-|
+| 2021 R2 | R2022a <br> R2021a/b <br> R2020a/b          | [1.1](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v1.1.0), 1.0* |
+| 2021    | R2021a/b <br> R2020a/b                      | [1.0](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v1.0.0) |
+
+*Previous versions of VeriStand Model Generation Support are compatible with newer versions of VeriStand, but may not include the newest features.
 
 ## Installation Guide for VeriStand Model Generation Support
 
@@ -20,6 +25,8 @@ Before you begin, install the supported versions of MathWorks MATLAB®, Simulink
 1. Restart MATLAB.
 
 **Note:** You should uninstall the Veristand Model Framework package before using the VeriStand Model Generation Support add-on.
+
+**Note:** To get a specific version of VeriStand Model Generation Support add-on, please visit the [releases page](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases). Download and open **VeriStandModelGenerationSupport.mltbx** in MATLAB to install the add-on.
 
 ### Install the MATLAB MinGW Compiler for 64-bit Windows targets
 
