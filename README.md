@@ -37,5 +37,5 @@ Before you begin, install the supported versions of MathWorks MATLAB®, Simulink
 
 ### Install the NI GCC Cross-Compiler for NI Linux Real-Time targets
 
-1. Download and install [C/C++ Development Tools for NI Linux Real-Time 2017, Eclipse Edition](https://www.ni.com/en-in/support/downloads/software-products/download.c-c---development-tools.html#333407).
+1. Download and install [C/C++ Development Tools for NI Linux Real-Time 2017, Eclipse Edition](https://www.ni.com/en-in/support/downloads/software-products/download.c-c---development-tools.html).
 1. Restart MATLAB.
