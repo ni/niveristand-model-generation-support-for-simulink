@@ -8,6 +8,7 @@ You can generate models for Windows Desktop or NI Linux Real-Time platforms. Onc
 
 | VeriStand | MathWorks MATLAB® | VeriStand Model Generation Support |
 |:-|:-|:-|
+| 2025 Q1 | R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [25.0](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v25.0), 24.3* 23.8*, 23.5*, 23.3* 1.2*, 1.1*, 1.0* |
 | 2024 Q4 | R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [24.3](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v24.3), 23.8*, 23.5*, 23.3* 1.2*, 1.1*, 1.0* |
 | 2024 Q3 | R2024a <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [24.3](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v24.3), 23.8*, 23.5*, 23.3* 1.2*, 1.1*, 1.0* |
 | 2024 Q2 | R2024a <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [24.3](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v24.3), 23.8*, 23.5*, 23.3* 1.2*, 1.1*, 1.0* |
@@ -44,5 +45,5 @@ Before you begin, install the supported versions of MathWorks MATLAB®, Simulink
 
 ### Install the NI GCC Cross-Compiler for NI Linux Real-Time targets
 
-1. Download and install [C/C++ Development Tools for NI Linux Real-Time 2017, Eclipse Edition](https://www.ni.com/en-in/support/downloads/software-products/download.c-c---development-tools.html).
+1. Download and install [GNU C & C++ Compile Tools x64](https://www.ni.com/en/support/downloads/software-products/download.gnu-c---c---compile-tools-x64.html#549645).
 1. Restart MATLAB.
