@@ -8,6 +8,7 @@ You can generate models for Windows Desktop or NI Linux Real-Time platforms. Onc
 
 | VeriStand | MathWorks MATLAB® | VeriStand Model Generation Support |
 |:-|:-|:-|
+| 2025 Q4 | R2025a <br> R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [25.5](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v25.5), 25.3.1*,  25.0*, 24.3*, 23.8*, 23.5*, 23.3*, 1.2*, 1.1*, 1.0* |
 | 2025 Q3 | R2025a <br> R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [25.5](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v25.5), 25.3.1*,  25.0*, 24.3*, 23.8*, 23.5*, 23.3*, 1.2*, 1.1*, 1.0* |
 | 2025 Q2 | R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [25.5](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v25.5), 25.3.1*, 25.0*, 24.3*, 23.8*, 23.5*, 23.3*, 1.2*, 1.1*, 1.0* |
 | 2025 Q1 | R2024a/b <br> R2023a/b <br> R2022a/b <br> R2021a/b <br> R2020a/b          | [25.0](https://github.com/ni/niveristand-model-generation-support-for-simulink/releases/tag/v25.0.2), 24.3*, 23.8*, 23.5*, 23.3*, 1.2*, 1.1*, 1.0* |
